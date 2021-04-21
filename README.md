@@ -3,7 +3,8 @@
 Tribes project for the GattoVerde team JAVA
 :guardsman::moyai::bomb::crown::european_castle::circus_tent::no_mobile_phones::underage::trophy:
 
-**Contributors: **
+##Contributors:
+
 Martin Prívara (Kingdom Model, Kingdom Service, Location, Building Purchase System, Tests)
 Hashem Abdelrhman (Authentication, Security, Mappers, Tests)
 Zuzana Stašová (Troop Model, Services, Endpoints, Logging, Tests)
