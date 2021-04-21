@@ -3,14 +3,14 @@
 Tribes project for the GattoVerde team JAVA
 :guardsman::moyai::bomb::crown::european_castle::circus_tent::no_mobile_phones::underage::trophy:
 
-##Contributors:
+**Contributors:**
 
-Martin Prívara (Kingdom Model, Kingdom Service, Location, Building Purchase System, Tests)
-Hashem Abdelrhman (Authentication, Security, Mappers, Tests)
-Zuzana Stašová (Troop Model, Services, Endpoints, Logging, Tests)
-Lucie Jindřichová (Resource Model, Starter Pack Service, Global Exception Handler, Refactoring, Tests)
-Zdeněk Pelcl (Building Model, Troop Purchase System, Time Service, Tests)
-Robert Pajić (Player Model, Services, Heroku Deployment, Tests)
+Martin Prívara (Kingdom Model, Kingdom Service, Location, Building Purchase System, Tests) <br/>
+Hashem Abdelrhman (Authentication, Security, Mappers, Tests) <br/>
+Zuzana Stašová (Troop Model, Services, Endpoints, Logging, Tests) <br/>
+Lucie Jindřichová (Resource Model, Starter Pack Service, Global Exception Handler, Refactoring, Tests) <br/>
+Zdeněk Pelcl (Building Model, Troop Purchase System, Time Service, Tests) <br/>
+Robert Pajić (Player Model, Services, Heroku Deployment, Tests) <br/>
 
 
 **Environment _variables:_**
